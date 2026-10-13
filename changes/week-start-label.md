@@ -1,0 +1,1 @@
+Rename the week-start setting label to “First day of the week”.
